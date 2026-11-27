@@ -4,7 +4,7 @@
 
   "games": {
     "com.pubg.imobile": {
-      "java_menu": false,
+      "java_menu": true,
       "auto_menu": true
     },
 
