@@ -9,7 +9,7 @@
     },
 
     "com.tence.ig": {
-      "java_menu": false,
+      "java_menu": true,
       "auto_menu": false
     },
 
@@ -19,7 +19,7 @@
     },
 
     "com.tence.igfit": {
-      "java_menu": false,
+      "java_menu": true,
       "auto_menu": false
     }
   }
