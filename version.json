@@ -4,8 +4,8 @@
 
   "games": {
     "com.pubg.imobile": {
-      "java_menu": false,
-      "auto_menu": true
+      "java_menu": true,
+      "auto_menu": false
     },
 
     "com.tence.ig": {
@@ -15,7 +15,7 @@
 
     "com.krafton.bgmilite": {
       "java_menu": false,
-      "auto_menu": true
+      "auto_menu": false
     },
 
     "com.tence.igfit": {
