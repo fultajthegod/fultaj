@@ -14,7 +14,7 @@
     },
 
     "com.krafton.bgmilite": {
-      "java_menu": false,
+      "java_menu": true,
       "auto_menu": false
     },
 
