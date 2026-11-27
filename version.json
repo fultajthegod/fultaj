@@ -1,4 +1,26 @@
 {
   "version": "12.0",
-  "tg_link": "https://t.me/"
+  "tg_link": "https://t.me/VIPLOADER",
+
+  "games": {
+    "com.pubg.imobile": {
+      "java_menu": false,
+      "auto_menu": true
+    },
+
+    "com.tence.ig": {
+      "java_menu": false,
+      "auto_menu": true
+    },
+
+    "com.krafton.bgmilite": {
+      "java_menu": false,
+      "auto_menu": true
+    },
+
+    "com.tence.igfit": {
+      "java_menu": false,
+      "auto_menu": ture
+    }
+  }
 }
